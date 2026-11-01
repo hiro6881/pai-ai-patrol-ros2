@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.log
+*.db3
+*.mcap
+.ros/
+.gazebo/
+.env
+.env.*
+*.pem
+*.key
+*.mp4
+*.pptx
+*.pdf
+.DS_Store
+.vscode/
